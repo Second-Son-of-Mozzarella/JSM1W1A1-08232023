@@ -53,3 +53,13 @@ h6{
 .primary{
     background-color: #023E73;
 }
+
+button{
+    border-radius: 0;
+}
+
+.endBit{
+    padding: 1rem;
+    background-color: #D6E0EA;
+    color: #262223;
+}
