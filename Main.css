@@ -1,0 +1,55 @@
+body{
+    background-color: lightgray;
+}
+.searchBtn {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.searchBar {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.wrapper{
+    margin-top: 100px;
+    padding-top: 25px;
+    justify-content: center;
+    background-color: #F2F2F2;
+
+}
+
+h1{
+    text-align: center;
+}
+
+.accordion{
+    text-align: left;
+}
+
+header{
+    background-color: white;
+}
+
+h1{
+    color: #023E73;
+}
+h2{
+    color: #023E73;
+}
+h3{
+    color: #023E73;
+}
+h4{
+    color: #023E73;
+}
+h5{
+    color: #023E73;
+}
+h6{
+    color: #023E73;
+}
+
+.primary{
+    background-color: #023E73;
+}
