@@ -1,5 +1,6 @@
 body{
     background-color: lightgray;
+    overflow-x: hidden;
 }
 .searchBtn {
     border-top-right-radius: 0;
@@ -62,4 +63,10 @@ button{
     padding: 1rem;
     background-color: #D6E0EA;
     color: #262223;
+}
+
+.menuBar{
+    max-height:500px;/* you can change as you need it */
+   overflow-y: auto;/* to get scroll */
+   overflow-x: hidden;
 }
